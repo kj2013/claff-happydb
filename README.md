@@ -25,10 +25,7 @@ To participate in the 2018 shared task, please register your team details at: <a
 
 ### Overview
 
-You are invited to participate in the first CL-Aff Shared Task, to be held as a part of the Affective Content Analysis workshop @ AAAI 2019. The shared task will be on modeling affect in language from user-provided descriptions of happy moments. 
-
-You are invited to participate in the first CL-Aff Shared Task, to be held as a part of the Affective Content Analysis workshop @ AAAI 2019. In the quest to understand user expression, we propose a task to undertake the first basic understanding of human affect - happiness. We contribute a new labeled corpus of happy moments and pose two novel challenges to spur the development of supervised and semi-supervised approachs in modeling human affect.
-The purpose of the CL-Aff Shared Task is to challenge the current understanding of emotion through a task that models the experiential, contextual and agentic attributes of happy moments. It has long been known that human affect is context-driven, and that labeled datasets should account for these factors in generating predictive models of affect. The Shared Task is organized in collaboration with researchers at Megagon Labs and builds upon the HappyDB dataset, comprising human accounts of 'happy moments'. The Shared Task comprises two sub-tasks for analyzing happiness and wellbeing in written language, on a corpus of 100,000 descriptions of happy moments. 
+You are invited to participate in the first CL-Aff Shared Task, to be held as a part of the Affective Content Analysis workshop @ AAAI 2019. The purpose of the CL-Aff Shared Task is to challenge the current understanding of emotion through a task that models the experiential, contextual and agentic attributes of happy moments. It has long been known that human affect is context-driven, and that labeled datasets should account for these factors in generating predictive models of affect. The Shared Task is organized in collaboration with researchers at Megagon Labs and builds upon the HappyDB dataset, comprising human accounts of 'happy moments'. The Shared Task comprises two sub-tasks for analyzing happiness and wellbeing in written language, on a corpus of 100,000 descriptions of happy moments. 
 
 
 Task
