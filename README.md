@@ -71,9 +71,15 @@ Directories containing the test set.
 
 ## Annotation
 
-For Task 1 annotations, workers labeled a happy moment following the instructions provided at <link>
+For Task 1 annotations, workers labeled a happy moment following the instructions provided at ./docs/corpusconstruction.txt
+
 For Task 2 annotations, workers labeled a happy moment with a maximum of two concept labels from a set of five automatically selected "best matching" labels from a superset of 15 labels.
-The training set for Task 2 of xxx moments is already available for download and can be used by participants to pilot their systems. The test set of xx for Task 1 and xxx for Task 2 will be released on xxx. The system outputs from the test set should be submitted to the task organizers, for the collation of the final results to be presented at the workshop.
+
+The training set for Task 2 of xxx moments is already available for download and can be used by participants to pilot their systems. 
+
+The test set of xx for Task 1 and xxx for Task 2 will be released on xxx. 
+
+The system outputs from the test set should be submitted to the task organizers, for the collation of the final results to be presented at the workshop.
 
 
 ## Organisers' Contacts
