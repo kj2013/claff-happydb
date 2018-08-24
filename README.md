@@ -3,7 +3,7 @@ Corpus and annotations for the CL-Aff Shared Task from the University of Pennsyl
 
 This package contains a release of training and test data to aid in modeling affect and emotion from text. 
 
-The CL-Aff Shared Task is run off the CL-Aff corpus, and comprises two sub-tasks in affect modeling on data from the HappyDB corpus (see https://www.kaggle.com/ritresearch/happydb). For the CL-Aff Shared Task 2019, the details of the training corpus are provided below. We plan to further enrich this dataset in time, with more annotations, meta-features and trained classifiers to aid with downstream applications.
+The CL-Aff Shared Task comprises two sub-tasks in affect modeling on data from the HappyDB corpus (see https://www.kaggle.com/ritresearch/happydb). For the CL-Aff Shared Task 2019, the details of the training corpus are provided below. We plan to further enrich this dataset in time, with more annotations, meta-features and trained classifiers to aid with downstream applications.
 
 For more details, see the Contents Section at the bottom of this Readme. To know how this corpus was constructed, please see ./docs/corpusconstruction.txt
 
