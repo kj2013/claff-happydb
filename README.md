@@ -84,8 +84,10 @@ The system outputs from the test set should be submitted to the task organizers,
 
 ## Organisers' Contacts
 
-For further information about this data release, contact the following members of the BRNDL 2017 workshop organising committee:
+For further information about this data release, contact the following members of the AffCon 2019 workshop organising committee:
 
 * <a href="https://kokiljaidka.wordpress.com/">Kokil Jaidka</a> (University of Pennsylvania) kokil.j@gmail.com
+* Niyati Chhaya (Adobe Research) nchhaya@adobe.com
+
 
 --------------------------------------------------------------------------
