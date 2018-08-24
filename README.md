@@ -27,13 +27,19 @@ To participate in the 2018 shared task, please register your team details at: <a
 
 You are invited to participate in the first CL-Aff Shared Task, to be held as a part of the Affective Content Analysis workshop @ AAAI 2019. The shared task will be on modeling affect in language from user-provided descriptions of happy moments. 
 
-There is a rising need for methods to monitor and automatically moderate online behavior on social media. It can lead to unintended social and political consequences. Trolling and incivility is often masked as high affect behavior, with the use of sarcasm, euphemism and humor to convey what incendiary ideas. In the quest to understand user expression, we propose a task to undertake the first basic understanding of human affect - happiness. We contribute a new labeled corpus of happy moments and pose two novel challenges to spur the development of supervised and semi-supervised approachs in modeling human affect.
+You are invited to participate in the first CL-Aff Shared Task, to be held as a part of the Affective Content Analysis workshop @ AAAI 2019. In the quest to understand user expression, we propose a task to undertake the first basic understanding of human affect - happiness. We contribute a new labeled corpus of happy moments and pose two novel challenges to spur the development of supervised and semi-supervised approachs in modeling human affect.
+The purpose of the CL-Aff Shared Task is to challenge the current understanding of emotion through a task that models the experiential, contextual and agentic attributes of happy moments. It has long been known that human affect is context-driven, and that labeled datasets should account for these factors in generating predictive models of affect. The Shared Task is organized in collaboration with researchers at Megagon Labs and builds upon the HappyDB dataset, comprising human accounts of 'happy moments'. The Shared Task comprises two sub-tasks for analyzing happiness and wellbeing in written language, on a corpus of 100,000 descriptions of happy moments. 
+
 
 Task
-Given: A sentence describing a happy moment written in first person, as an answer to the question "What made you happy? Reflect on the past <time period>, and recall three actual events that happened to you that made you happy." 
+Given: An account of a happy moment, marked with individual's demographics, recollection time and relevant labels.
 
-For Task 1, the labeled training set includes labels that identify the 'agency' of the author and the 'social' characteristic of the moment. 
-For Task 2, the labeled training set includes up to three concept labels describing the theme of the moment.
+Task 1: Predict thematic labels on unseen data, based on a small labeled and large unlabeled training data. 
+
+Task 2: Suggest interesting ways to automatically characterize the happy moments, e.g., in terms of affect, emotion, participants and content.
+
+Annotations
+
 
 Evaluation: <TBA>
 
@@ -71,18 +77,15 @@ Directories containing the test set.
 
 ## Annotation
 
-For Task 1 annotations, workers labeled a happy moment following the instructions provided at ./docs/corpusconstruction.txt
+For Task 1, the labeled training set includes labels that identify the 'agency' of the author and the 'social' characteristic of the moment. 
 
-For Task 2 annotations, workers labeled a happy moment with a maximum of two concept labels from a set of five automatically selected "best matching" labels from a superset of 15 labels.
+For Task 2, the labeled training set includes up to two concept labels describing the theme of the moment.
 
-The training set for Task 2 of xxx moments is already available for download and can be used by participants to pilot their systems. 
-
-The test set of xx for Task 1 and xxx for Task 2 will be released on xxx. 
-
-The system outputs from the test set should be submitted to the task organizers, for the collation of the final results to be presented at the workshop.
 
 
 ## Organisers' Contacts
+
+The system outputs from the test set should be submitted to the task organizers, for the collation of the final results to be presented at the workshop.
 
 For further information about this data release, contact the following members of the AffCon 2019 workshop organising committee:
 
