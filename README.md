@@ -7,7 +7,7 @@ The CL-Aff Shared Task comprises two sub-tasks in affect modeling on data from t
 
 For more details, see the Contents Section at the bottom of this Readme. To know how this corpus was constructed, please see ./docs/corpusconstruction.txt
 
-Results of the CL-Aff Shared Task 2019 will be released in the Affective Content Analysis (AffCon) Workshop @ AAAI-2019. 
+Results of the CL-Aff Shared Task 2019 will be released in the AAAI Workshop on Affective Content Analysis (AffCon) @ AAAI-2019. 
 Check out the Workshop and Shared Task website:  <a href="https://sites.google.com/view/affcon2019/home">https://sites.google.com/view/affcon2019/home</a>
 Register your team now via EasyChair: <a href="https://easychair.org/conferences/?conf=affcon2019">https://easychair.org/conferences/?conf=affcon2019</a>
 
@@ -42,9 +42,7 @@ Evaluation: <TBA>
 
 ## Contents
 
-This is the open repository for the Scientific Document Summarization Corpus and Annotations contributed to the public by the Web IR / NLP Group at @ the National University of Singapore (WING-NUS) 
-with generous support from Microsoft Research Asia.
-
+This is the open repository for Affect Understanding in Text and Annotations contributed to the public through the collaboration between Univeristy of Pennsylvania and Megagon Labs and builds upon the HappyDB dataset, comprising human accounts of 'happy moments'. 
     ./README.md
  
 This file.
