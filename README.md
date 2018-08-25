@@ -31,11 +31,9 @@ You are invited to participate in the first CL-Aff Shared Task, to be held as a 
 Task
 Given: An account of a happy moment, marked with individual's demographics, recollection time and relevant labels.
 
-Task 1: Predict thematic labels on unseen data, based on a small labeled and large unlabeled training data. 
+Task 1: Predict agency/social labels for unseen data, based on a small labeled and large unlabeled training data. 
 
-Task 2: Suggest interesting ways to automatically characterize the happy moments, e.g., in terms of affect, emotion, participants and content.
-
-Annotations
+Task 2: Suggest interesting ways to automatically characterize the happy moments, e.g., in terms of affect, emotion, participants and content, based on a small labeled and large unlabeled training data
 
 
 Evaluation: <TBA>
