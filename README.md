@@ -64,11 +64,11 @@ corpus.
 Rules followed for the annotation.
 
 
-    ./data/Task-?/TRAIN
+    ./data/TRAIN
   
 Directories containing the training set.
 
-    ./data/Task-?/TEST
+    ./data/TEST
 
 Directories containing the test set.
 
