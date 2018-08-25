@@ -1,0 +1,47 @@
+Here are the instructions used for collecting the moments on Amazon Mechanical Turk. HITs were randomized so that the <time period> was either “the past 24 hours” or “the past 3 months”.
+
+------------------
+
+What made you happy? Reflect on <time period>, and recall three actual events that happened to you that made you happy. Describe your happy moments with a complete sentence. Write three such moments. You will be also asked to note for how long each event made you happy. This task also has post-task questions. Please be sure to answer the questions.
+
+
+
+Examples of happy moments we are NOT looking for (e.g. events in distant past, partial sentence): 
+
+The day I married my spouse
+My dog
+
+
+DISCLAIMER: This HIT is part of an RIT scientific research project. Your decision to complete this HIT is voluntary. The results of the research may be presented at scientific meetings, published in scientific journals, or distributed as datasets to scientific communities. Clicking on the 'SUBMIT' button on the bottom of this page indicates that you are at least 18 years of age and agree to complete this HIT voluntarily.
+
+
+
+
+1. Describe an event (big or small) that made you happy in the past 24 hours? Describe that happy event in a complete sentence.
+
+
+For how long did that event make you happy? Select the answer that is most appropriate.
+
+
+
+2. Describe an event (big or small) that made you happy in the past 24 hours? Describe that happy event in a complete sentence.
+
+
+For how long did that event make you happy? Select the answer that is most appropriate.
+
+
+
+3. Describe an event (big or small) that made you happy in the past 24 hours? Describe that happy event in a complete sentence.
+
+
+For how long did that event make you happy? Select the answer that is most appropriate.
+
+
+Post survey questions. Tell us about yourself.
+
+Country: 
+Gender:  Male  Female  Other
+Age:
+
+Marital status: 
+Do you have children?:  Yes  No
