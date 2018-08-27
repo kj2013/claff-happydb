@@ -28,7 +28,8 @@ Large unlabeled dataset, with Moment as the only field.
 
 **Agency**
 
-Agency: Is the author in control?  YES/NO
+Agency: Binary label describing whether or not the author is in control (yes/no)
+
 Examples of sentences where the author is in control (Answer is YES):
     
     "I ran on the treadmill for 20 minutes straight when I could barely do 5 minutes 3 months ago."
@@ -42,7 +43,8 @@ Examples of sentences where the author is not in control (Answer is NO):
 
 **Social**
 
-Social: Does this moment involve other people other than the author? YES/NO
+Social: Binary label describing whether or not this moment involve other people other than the author. (yes/no)
+
 Please note that objects (e.g., bus, work) are not considered social. 
 
 Examples of sentences which involve other people (Answer is YES):
