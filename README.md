@@ -31,7 +31,7 @@ You are invited to participate in the first CL-Aff Shared Task, to be held as a 
 
 ### Tasks
 
-Given: An account of a happy moment with relevant labels.
+Given: An account of a happy moment, marked with individual's demographics, recollection time and relevant labels.
 
 **TASK 1: WHAT ARE THE INGREDIENTS FOR HAPPINESS?**
 
