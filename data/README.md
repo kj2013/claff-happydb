@@ -7,6 +7,14 @@ Directory containing the training set.
     ./data/TEST
 Directory containing the test set (TO BE ADDED).
 
+### Corpus details for Shared Task 2019
+
+**Labeled training set:** Single-sentence happy moments from the available HappyDB corpus, annotated with labels that identify the 'agency' of the author and the 'social' characteristic of the moment, as well as concept labels describing its theme
+
+**Unlabeled training set:** The remaining single-sentence happy moments with no labels.
+
+**Test set:** Previously unreleased, labeled, single-sentence happy moments, freshly collected in the same manner as the original HappyDB data 
+
 ### File contents
     ./data/TRAIN/labeled_10k.csv
 Small labeled dataset, with Moment, Concept, Agency, and Social fields.
