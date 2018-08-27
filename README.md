@@ -43,16 +43,13 @@ Unsupervised task: Propose new characterizations and insights (not necessarily a
 
 Evaluation: TBA
 
-## Annotation
+## Corpus details
 
-For Task 1, the labeled training set includes labels that identify the 'agency' of the author and the 'social' characteristic of the moment.
+**Labeled training set:** Single-sentence happy moments from the available HappyDB corpus, annotated with labels that identify the 'agency' of the author and the 'social' characteristic of the moment, as well as concept labels describing its theme
 
-Agency: Binary label describing whether or not the author is in control (yes/no)
-Social: Binary label describing whether or not this moment involve other people other than the author. (yes/no)
+**Unlabeled training set:** The remaining single-sentence happy moments with no labels.
 
-
-For Task 2, the labeled training set includes up to two concept labels describing the theme of the moment.
-There are a total of Example concept labels
+**Test set:** Previously unreleased, labeled, single-sentence happy moments, freshly collected in the same manner as the original HappyDB data 
 
 ## Git Contents
 
