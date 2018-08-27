@@ -29,16 +29,28 @@ To participate in the 2018 shared task, please register your team details at: <a
 You are invited to participate in the first CL-Aff Shared Task, to be held as a part of the Affective Content Analysis workshop @ AAAI 2019. The purpose of the CL-Aff Shared Task is to challenge the current understanding of emotion through a task that models the experiential, contextual and agentic attributes of happy moments. It has long been known that human affect is context-driven, and that labeled datasets should account for these factors in generating predictive models of affect. The Shared Task is organized in collaboration with researchers at Megagon Labs and builds upon the HappyDB dataset, comprising human accounts of 'happy moments'. The Shared Task comprises two sub-tasks for analyzing happiness and wellbeing in written language, on a corpus of 100,000 descriptions of happy moments. 
 
 
-Task
+### Tasks
+
 Given: An account of a happy moment with relevant labels.
 
 Task 1: Semi-supervised learning task: Predict agency and social labels for happy moments in the test set. 
 
 Task 2: Unsupervised task: Propose new characterizations and insights (not necessarily and not limited to themes) for happy moments in the test set, e.g., in terms of affect, emotion, participants and content.
 
-Evaluation: <TBA>
+Evaluation: TBA
 
-## Contents
+## Annotation
+
+For Task 1, the labeled training set includes labels that identify the 'agency' of the author and the 'social' characteristic of the moment.
+
+Agency: Binary label describing whether or not the author is in control (yes/no)
+Social: Binary label describing whether or not this moment involve other people other than the author. (yes/no)
+
+
+For Task 2, the labeled training set includes up to two concept labels describing the theme of the moment.
+There are a total of Example concept labels
+
+## Git Contents
 
 This is the open repository for Affect Understanding in Text and Annotations contributed to the public through the collaboration between Univeristy of Pennsylvania and Megagon Labs and builds upon the HappyDB dataset, comprising human accounts of 'happy moments'. 
 
@@ -70,11 +82,6 @@ Directory containing the training set.
 
 Directory containing the test set.
 
-## Annotation
-
-For Task 1, the labeled training set includes labels that identify the 'agency' of the author and the 'social' characteristic of the moment. 
-
-For Task 2, the labeled training set includes up to two concept labels describing the theme of the moment.
 
 
 
