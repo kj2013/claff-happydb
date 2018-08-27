@@ -16,7 +16,9 @@ Large unlabeled dataset, with Moment as the only field.
 
 
 
-### Agency
+### Label descriptions
+
+**Agency**
 Agency: Is the author in control?  YES/NO
 Examples of sentences where the author is in control (Answer is YES):
     
@@ -29,9 +31,9 @@ Examples of sentences where the author is not in control (Answer is NO):
     "A small business deal change over for small profit."
 
 
-### Social
+**Social**
 Social: Does this moment involve other people other than the author? YES/NO
-Please note that objects (e.g., bus, work) should not be counted as social. 
+Please note that objects (e.g., bus, work) are not considered social. 
 
 Examples of sentences which involve other people (Answer is YES):
 
@@ -50,7 +52,7 @@ Examples of sentences which is not social (Answer is NO):
     “The bus came on time so I reached work early.”
 
 
-### Concepts
+**Concepts**
 Concepts can have up to 15 possible values, and each moment can have multiple values separated by a piping symbol, e.g.
     
     "family|education|party"
