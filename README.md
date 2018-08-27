@@ -3,9 +3,10 @@ Corpus and annotations for the CL-Aff Shared Task from the University of Pennsyl
 
 This package contains a release of training and test data to aid in modeling affect and emotion from text. 
 
-The CL-Aff Shared Task comprises two sub-tasks in affect modeling on data from the HappyDB corpus (see <a href="https://github.com/rit-public/HappyDB">https://github.com/rit-public/HappyDB</a>). Further documentation about HappyDB can be found <a href="https://rit-public.github.io/HappyDB/">here</a> and <a href="https://www.kaggle.com/ritresearch/happydb">on Kaggle</a>. For the CL-Aff Shared Task 2019, the details of the training corpus are provided below. We plan to further enrich this dataset in time, with more annotations, meta-features and trained classifiers to aid with downstream applications.
+The CL-Aff Shared Task comprises two sub-tasks in affect modeling on data from the HappyDB corpus (see <a href="https://github.com/rit-public/HappyDB">https://github.com/rit-public/HappyDB</a>). Further documentation about HappyDB can be found <a href="https://rit-public.github.io/HappyDB/">here</a> and <a href="https://www.kaggle.com/ritresearch/happydb">on Kaggle</a>. 
 
-For more details, see the Contents Section at the bottom of this Readme. To know how this corpus was constructed, please see ./docs/corpusconstruction.txt
+This README describes the directory structure and contents of this gitrepo. To know how this corpus was annotated for the CL-Aff Shared Task 2019, please see ./docs/annotation_rules.txt
+We plan to further enrich this data, with more annotations, meta-features and trained classifiers to aid with downstream applications.
 
 Results of the CL-Aff Shared Task 2019 will be released in the AAAI Workshop on Affective Content Analysis (AffCon) @ AAAI-2019. 
 Check out the Workshop and Shared Task website:  <a href="https://sites.google.com/view/affcon2019/home">https://sites.google.com/view/affcon2019/home</a>
@@ -29,12 +30,11 @@ You are invited to participate in the first CL-Aff Shared Task, to be held as a 
 
 
 Task
-Given: An account of a happy moment, marked with individual's demographics, recollection time and relevant labels.
+Given: An account of a happy moment with relevant labels.
 
-Task 1: Predict agency/social labels for unseen data, based on a small labeled and large unlabeled training data. 
+Task 1: Semi-supervised learning task: Predict agency and social labels for happy moments in the test set. 
 
-Task 2: Suggest interesting ways to automatically characterize the happy moments, e.g., in terms of affect, emotion, participants and content, based on a small labeled and large unlabeled training data
-
+Task 2: Unsupervised task: Propose new characterizations and insights (not necessarily and not limited to themes) for happy moments in the test set, e.g., in terms of affect, emotion, participants and content.
 
 Evaluation: <TBA>
 
@@ -64,11 +64,11 @@ Rules followed for the annotation.
 
     ./data/TRAIN
   
-Directories containing the training set.
+Directory containing the training set.
 
     ./data/TEST
 
-Directories containing the test set.
+Directory containing the test set.
 
 ## Annotation
 
