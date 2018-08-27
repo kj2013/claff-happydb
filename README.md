@@ -33,11 +33,11 @@ You are invited to participate in the first CL-Aff Shared Task, to be held as a 
 
 Given: An account of a happy moment with relevant labels.
 
-**TASK 1: WHAT ARE THE INGREDIENTS FOR HAPPINESS ? 
+**TASK 1: WHAT ARE THE INGREDIENTS FOR HAPPINESS?**
 
 Semi-supervised learning task: Predict agency and social labels for happy moments in the test set, based on a small labeled and large unlabeled training data. 
 
-**TASK 2: HOW CAN WE MODEL HAPPINESS ? 
+**TASK 2: HOW CAN WE MODEL HAPPINESS?**
 
 Unsupervised task: Propose new characterizations and insights (not necessarily and not limited to themes) for happy moments in the test set, e.g., in terms of affect, emotion, participants and content.
 
