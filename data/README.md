@@ -3,11 +3,17 @@
     ./data/TRAIN
 Directory containing the training set.
 
+
     ./data/TEST
-Directory containing the test set.
+Directory containing the test set (TO BE ADDED).
 
 ### File contents
-Moment, Concepts, Agency, Social
+    ./data/TRAIN/labeled_10k.csv
+Small labeled dataset, with Moment, Concept, Agency, and Social fields.
+
+    ./data/TRAIN/unlabeled_70k.csv
+Large unlabeled dataset, with Moment as the only field.
+
 
 
 ### Agency
