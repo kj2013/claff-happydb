@@ -27,8 +27,7 @@ Large unlabeled dataset, with Moment as the only field.
 ### Label descriptions
 
 **Agency**
-
-Agency: Binary label describing whether or not the author is in control (yes/no)
+Binary label describing whether or not the author is in control (yes/no)
 
 Examples of sentences where the author is in control (Answer is YES):
     
@@ -43,7 +42,7 @@ Examples of sentences where the author is not in control (Answer is NO):
 
 **Social**
 
-Social: Binary label describing whether or not this moment involve other people other than the author. (yes/no)
+Binary label describing whether or not this moment involve people other than the author. (yes/no)
 
 Please note that objects (e.g., bus, work) are not considered social. 
 
