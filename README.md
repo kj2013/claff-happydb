@@ -6,7 +6,8 @@ The CL-Aff Shared Task comprises two sub-tasks in affect modeling and understand
 This package contains a release of training and test data to aid in modeling affect and emotion from text. 
 
 This README describes the directory structure and contents of this gitrepo. To know how this corpus was annotated for the CL-Aff Shared Task 2019, please see ./docs/annotation_rules.txt
-We plan to further enrich this data, with more annotations, meta-features and trained classifiers to aid with downstream applications.
+Please "WATCH" this repository! We may be pushing more updates in the following weeks.
+We also plan to further enrich this data, with more annotations, meta-features and trained classifiers to aid with downstream applications.
 
 Results of the CL-Aff Shared Task 2019 will be released in the AAAI Workshop on Affective Content Analysis (AffCon) @ AAAI-2019. 
 Check out the Workshop and Shared Task website:  <a href="https://sites.google.com/view/affcon2019/home">https://sites.google.com/view/affcon2019/home</a>
