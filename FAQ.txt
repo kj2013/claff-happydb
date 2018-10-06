@@ -1,0 +1,21 @@
+FAQ
+
+
+1. What should be the format of the submission file for Task 1?
+
+csv, with fields as:
+hmid,agency,social
+
+
+2. There are 2 subtasks(semi-supervised and unsupervised) specified in the shared task. Do participants have to do both - or is one of them okay?
+
+Since Task 2 is open ended, we encourage participants to use it, at the very least, to descibe their solution approach for Task 1, or the insights which their solution approach provided about the dataset. 
+
+
+3. What needs to be submitted by Oct 15? What if my system design changes in the interim period.
+
+Title and abstract tentatively describing the system design. It's ok if you change your approach later on. 
+
+
+ 
+ 
