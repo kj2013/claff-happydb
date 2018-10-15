@@ -1,5 +1,7 @@
-# claff-happydb
+# claff-happydb CL-Aff Shared Task - In Pursuit of Happiness DEADLINE NOVEMBER 5 2018
 Corpus and annotations for the CL-Aff Shared Task - In Pursuit of Happiness - from the University of Pennsylvania
+
+# Check out the FAQ!
 
 The CL-Aff Shared Task comprises two sub-tasks in affect modeling and understanding on data from the HappyDB corpus (see <a href="https://github.com/rit-public/HappyDB">https://github.com/rit-public/HappyDB</a>). Further documentation about HappyDB can be found <a href="https://rit-public.github.io/HappyDB/">here</a> and <a href="https://www.kaggle.com/ritresearch/happydb">on Kaggle</a>. 
 
