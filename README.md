@@ -1,5 +1,10 @@
-# claff-happydb CL-Aff Shared Task - In Pursuit of Happiness DEADLINE NOVEMBER 5 2018
+# CL-Aff Shared Task - In Pursuit of Happiness 
+
 Corpus and annotations for the CL-Aff Shared Task - In Pursuit of Happiness - from the University of Pennsylvania
+
+A part of the AffCon Workshop @ AAAI 2019 for Modeling Affect-in-Action
+
+DEADLINE NOVEMBER 5 2018
 
 # Check out the FAQ!
 
