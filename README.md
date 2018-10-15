@@ -4,6 +4,9 @@ Corpus and annotations for the CL-Aff Shared Task - In Pursuit of Happiness - fr
 
 A part of the AffCon Workshop @ AAAI 2019 for Modeling Affect-in-Action
 
+Check out the Workshop and Shared Task website:  <a href="https://sites.google.com/view/affcon2019/home">https://sites.google.com/view/affcon2019/home</a>
+
+
 DEADLINE NOVEMBER 5 2018
 
 # Check out the FAQ!
@@ -15,9 +18,6 @@ This package contains a release of training and test data to aid in modeling aff
 This README describes the directory structure and contents of this gitrepo. To know how this corpus was annotated for the CL-Aff Shared Task 2019, please see ./docs/annotation_rules.txt
 Please "WATCH" this repository! We may be pushing more updates in the following weeks.
 We also plan to further enrich this data, with more annotations, meta-features and trained classifiers to aid with downstream applications.
-
-Results of the CL-Aff Shared Task 2019 will be released in the AAAI Workshop on Affective Content Analysis (AffCon) @ AAAI-2019. 
-Check out the Workshop and Shared Task website:  <a href="https://sites.google.com/view/affcon2019/home">https://sites.google.com/view/affcon2019/home</a>
 
 If you use the data and publish, please let us know and cite our CL-Aff overview paper:
 @inproceedings{TBA
