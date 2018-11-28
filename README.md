@@ -49,7 +49,9 @@ Semi-supervised learning task: Predict agency and social labels for happy moment
 
 Unsupervised task: Propose new characterizations and insights (not necessarily and not limited to concepts/ themes) for happy moments in the test set, e.g., in terms of affect, emotion, participants and content.
 
-Evaluation: TBA
+Evaluation (Task 1): Accuracy, AUC, F1
+
+Evaluation (Task 2): Subjective, based on qualitative characteristics.
 
 ## Corpus details
 
