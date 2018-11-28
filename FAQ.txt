@@ -17,5 +17,43 @@ Since Task 2 is open ended, we encourage participants to use it, at the very lea
 Title and abstract tentatively describing the system design. It's ok if you change your approach later on. 
 
 
+4. What’s the format and minimum pages of the paper (Shared Task Report)?
  
+ No minimum pages; maximum page limit of 10 pages. Please follow the LNCS publication guidelines. We'll be publishing an open-access proceedings at http://ceur-ws.org/HOWTOSUBMIT.html
+
+
+5. What is the evaluation criteria for Task 1 and Task 2?
+
+Evaluation (Task 1): Accuracy, AUC, F1
+
+Evaluation (Task 2): Subjective, based on qualitative characteristics.
+
+
+6. Should the submission file for Task 1 be sent directly to email?
+
+ We've added a new field to EasyChair to let you submit your system runs there. In case that doesn't work, you can email us.
+
+
+7. How many runs (prediction sets) can we submit for the Cl-Aff test set (Task 1)?
+
+A maximum of ten, please.
+
  
+8. What do we submit for task 2?
+
+Results for Task 2 should be a part of the main paper, we do not need any system runs for those.
+
+
+9. Is the peer review of submissions blind? What is the process of the peer review?
+
+It will not be blind -- we will send around the pdf assignments and participants will submit their feedback. Everyone will know who got their paper and who reviewed their paper.
+
+
+10. Can we utilize the happyDB (https://github.com/rit-public/HappyDB) for training our models?
+
+The unlabeled and labeled training data posted on Git is actually the pre-released HappyDB data.
+
+
+11. What is the rationale used when the labels for agency and social are given?
+
+Please check our documentation at https://github.com/kj2013/claff-happydb/tree/master/docs. The labels were chosen based on inter-coder agreement, so there is only a consensus, not a ground truth. It is even possible that you don't agree with the majority.
