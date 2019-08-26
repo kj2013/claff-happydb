@@ -21,7 +21,13 @@ Please "WATCH" this repository! We may be pushing more updates in the following 
 We also plan to further enrich this data, with more annotations, meta-features and trained classifiers to aid with downstream applications.
 
 If you use the data and publish, please let us know and cite our CL-Aff overview paper:
-@inproceedings{TBA
+
+@inproceedings{jaidka2019cl,
+  title={The CL-Aff Happiness Shared Task: Results and Key Insights.},
+  author={Jaidka, Kokil and Mumick, Saran and Chhaya, Niyati and Ungar, Lyle},
+  booktitle={AffCon@ AAAI},
+  pages={39--49},
+  year={2019}
 }
 
 ## README for The Computational Linguistics Affect Understanding Shared Task Corpus (CL-Aff 2019)
