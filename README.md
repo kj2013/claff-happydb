@@ -30,6 +30,13 @@ If you use the data and publish, please let us know and cite our CL-Aff overview
   year={2019}
 }
 
+You can also cite our forthcoming ICWSM-2020 paper, we'll upload a camera-ready version soon:
+@inproceedings{jaidka2020happy,
+  title={Beyond Positive Emotion: Deconstructing Happy Moments based on Writing Prompts},
+  author={Jaidka, Kokil and Mumick, Saran and Chhaya, Niyati and Killingsworth, Matthew and Halevy, Alon and Ungar, Lyle},
+   booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+    year={In press}
+}
 ## README for The Computational Linguistics Affect Understanding Shared Task Corpus (CL-Aff 2019)
 
 August 24, 2018
