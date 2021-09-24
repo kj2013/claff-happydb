@@ -7,8 +7,7 @@ A part of the AffCon Workshop @ AAAI 2019 for Modeling Affect-in-Action
 Check out the Workshop and Shared Task website:  <a href="https://sites.google.com/view/affcon2019/home">https://sites.google.com/view/affcon2019/home</a>
 
 
-ABSTRACT SUBMISSION DEADLINE EXTENDED DUE TO MULTIPLE REQUESTS NOVEMBER 12 2018
-TEST PREDICTIONS SUBMISSION DEADLINE NOVEMBER 30
+# This Shared Task is now closed, but feel free to use our datasets
 
 # Check out the FAQ!
 
